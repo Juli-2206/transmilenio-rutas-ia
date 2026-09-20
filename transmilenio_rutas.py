@@ -2,7 +2,7 @@
 =================================================================
 SISTEMA INTELIGENTE DE RUTAS - TRANSMILENIO BOGOTÁ
 =================================================================
-Autores  : [Tu nombre aquí]
+Autor  : Juliana Esther Naranjo Camacho
 Materia  : Inteligencia Artificial
 Universidad: Corporación Universitaria Iberoamericana
 
