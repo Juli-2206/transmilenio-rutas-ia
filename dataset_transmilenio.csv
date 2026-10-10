@@ -1,0 +1,404 @@
+id,estacion_origen,troncal_origen,estacion_destino,troncal_destino,hora_periodo,dia_tipo,num_estaciones,num_transbordos,tiempo_minutos,categoria_ruta,categoria_nombre
+0,Portal Norte,Caracas,Granja Carrera 77,Calle80,1,1,14,1,49.8,1,Media
+1,Av Jimenez,Caracas,Portal Suba,Suba,0,0,18,1,33.0,1,Media
+2,Calle 26,Caracas,Americas Carrera 30,Americas,1,0,13,1,60.3,2,Larga
+3,Santa Isabel,Caracas,Americas Carrera 30,Americas,1,0,17,1,61.7,2,Larga
+4,Quirigua,Calle80,Calle 45,Caracas,1,1,16,1,49.2,1,Media
+5,Bicentenario,Caracas,Portal Suba,Suba,5,0,20,1,35.2,1,Media
+6,Granja Carrera 77,Calle80,Portal Norte,Caracas,3,1,14,1,42.1,1,Media
+7,Patio Bonito,Americas,Niza Calle 127,Suba,2,1,7,1,22.2,0,Rápida
+8,Granja Carrera 77,Calle80,Quirigua,Calle80,3,0,2,0,7.4,0,Rápida
+9,Ricaurte,Americas,Niza Calle 127,Suba,5,0,11,1,25.1,1,Media
+10,Portal 80,Calle80,Portal Americas,Americas,4,0,8,1,41.0,1,Media
+11,Granja Carrera 77,Calle80,Pepe Sierra,Suba,4,0,6,1,34.6,1,Media
+12,Banderas,Americas,El Tiempo,Calle80,4,0,11,1,42.0,1,Media
+13,Ricaurte,Americas,Santa Isabel,Caracas,0,0,16,1,38.3,1,Media
+14,Portal Suba,Suba,Pepe Sierra,Suba,3,0,3,0,13.0,0,Rápida
+16,Av Rojas,Calle80,Calle 100,Caracas,2,0,12,1,47.0,1,Media
+17,Bolivia,Calle80,NQS Sur,Caracas,3,1,22,1,39.1,1,Media
+18,Tintal,Americas,Bolivia,Calle80,2,1,8,1,27.8,1,Media
+19,Av Jimenez,Caracas,Escuela Militar,Calle80,0,2,13,1,29.6,1,Media
+20,Granja Carrera 77,Calle80,Mazuren,Caracas,4,2,11,1,41.4,1,Media
+21,Portal Suba,Suba,Tintal,Americas,3,2,8,1,20.6,0,Rápida
+22,Suba Calle 100,Suba,Marsella,Americas,2,0,9,1,27.0,1,Media
+23,Portal Suba,Suba,Banderas,Americas,1,0,9,1,36.2,1,Media
+24,Portal Americas,Americas,Bicentenario,Caracas,3,0,22,1,49.4,1,Media
+25,Quirigua,Calle80,Marsella,Americas,3,0,11,1,32.2,1,Media
+26,Suba Calle 100,Suba,Pepe Sierra,Suba,1,0,2,0,11.1,0,Rápida
+27,Pepe Sierra,Suba,Portal Suba,Suba,3,2,3,0,9.5,0,Rápida
+28,Niza Calle 127,Suba,Mazuren,Caracas,1,0,10,1,47.5,1,Media
+29,Marsella,Americas,Suba Calle 100,Suba,4,0,9,1,39.1,1,Media
+30,Portal Norte,Caracas,Toberin,Caracas,4,1,2,0,3.9,0,Rápida
+31,Pepe Sierra,Suba,Americas Carrera 30,Americas,4,0,9,1,34.3,1,Media
+33,Pepe Sierra,Suba,Banderas,Americas,1,2,6,1,27.3,1,Media
+34,Bicentenario,Caracas,Portal 80,Calle80,1,0,22,1,60.8,2,Larga
+35,Portal Americas,Americas,NQS Sur,Caracas,1,0,24,1,59.1,2,Larga
+36,Americas Carrera 30,Americas,Portal Sur,Caracas,3,0,19,1,43.0,1,Media
+37,Calle 45,Caracas,Minuto de Dios,Calle80,1,1,13,1,46.4,1,Media
+38,Suba Calle 100,Suba,Escuela Militar,Calle80,1,1,12,1,28.0,1,Media
+39,Portal Suba,Suba,Calle 26,Caracas,1,0,17,1,53.9,2,Larga
+40,Portal Sur,Caracas,General Santander,Americas,1,0,20,1,57.9,2,Larga
+41,Portal 80,Calle80,Quirigua,Calle80,5,0,2,0,2.9,0,Rápida
+42,Bicentenario,Caracas,Marsella,Americas,1,0,18,1,56.0,2,Larga
+43,Escuela Militar,Calle80,Portal 80,Calle80,1,0,7,0,29.8,1,Media
+44,Calle 72,Caracas,Marsella,Americas,1,0,12,1,59.4,2,Larga
+45,Toberin,Caracas,Portal Sur,Caracas,3,0,13,0,45.5,1,Media
+46,Bolivia,Calle80,Suba Calle 100,Suba,0,0,7,1,24.7,0,Rápida
+47,Portal Sur,Caracas,Granja Carrera 77,Calle80,3,0,22,1,44.9,1,Media
+48,Suba Calle 100,Suba,Tintal,Americas,5,1,7,1,22.4,0,Rápida
+49,Cardio Infantil,Caracas,El Tiempo,Calle80,4,1,15,1,52.8,2,Larga
+50,Bolivia,Calle80,Calle 45,Caracas,4,1,15,1,48.0,1,Media
+51,Niza Calle 127,Suba,Granja Carrera 77,Calle80,1,0,7,1,34.8,1,Media
+52,Quirigua,Calle80,Av Rojas,Calle80,3,0,4,0,15.4,0,Rápida
+53,Portal 80,Calle80,Portal Sur,Caracas,5,0,25,1,42.3,1,Media
+54,Portal 80,Calle80,Av Jimenez,Caracas,2,1,20,1,36.1,1,Media
+55,Calle 45,Caracas,Marsella,Americas,0,0,13,1,37.7,1,Media
+56,General Santander,Americas,Portal Suba,Suba,5,2,11,1,19.0,0,Rápida
+57,Bicentenario,Caracas,Minuto de Dios,Calle80,3,0,18,1,47.4,1,Media
+58,Banderas,Americas,Pepe Sierra,Suba,3,2,6,1,22.1,0,Rápida
+59,El Tiempo,Calle80,Calle 100,Caracas,1,0,13,1,57.7,2,Larga
+60,Escuela Militar,Calle80,Pepe Sierra,Suba,3,0,10,1,29.9,1,Media
+61,Patio Bonito,Americas,Av Rojas,Calle80,1,2,12,1,30.4,1,Media
+62,Granja Carrera 77,Calle80,Tintal,Americas,0,0,9,1,27.6,1,Media
+63,Marly,Caracas,Suba Calle 100,Suba,3,0,15,1,40.1,1,Media
+64,Portal Americas,Americas,Santa Isabel,Caracas,2,0,23,1,47.4,1,Media
+65,Portal Suba,Suba,Patio Bonito,Americas,2,1,7,1,24.1,0,Rápida
+66,Escuela Militar,Calle80,Pepe Sierra,Suba,4,1,10,1,31.1,1,Media
+67,Granja Carrera 77,Calle80,Escuela Militar,Calle80,3,0,4,0,13.3,0,Rápida
+68,Granja Carrera 77,Calle80,Av Rojas,Calle80,1,0,2,0,8.3,0,Rápida
+69,Americas Carrera 30,Americas,Banderas,Americas,1,0,3,0,13.7,0,Rápida
+70,Portal Suba,Suba,Americas Carrera 30,Americas,2,1,12,1,25.1,1,Media
+71,NQS Sur,Caracas,Pepe Sierra,Suba,0,0,19,1,34.3,1,Media
+73,El Tiempo,Calle80,Portal Suba,Suba,2,0,12,1,28.5,1,Media
+74,Ricaurte,Americas,Portal Americas,Americas,4,0,7,0,33.9,1,Media
+75,Las Aguas,Caracas,Suba Calle 100,Suba,4,0,18,1,50.4,2,Larga
+76,Granja Carrera 77,Calle80,Niza Calle 127,Suba,1,2,7,1,25.6,1,Media
+77,Niza Calle 127,Suba,Marly,Caracas,0,0,14,1,35.6,1,Media
+78,Granja Carrera 77,Calle80,Santa Isabel,Caracas,5,0,20,1,36.5,1,Media
+79,Banderas,Americas,Av Jimenez,Caracas,1,0,17,1,59.0,2,Larga
+80,Ricaurte,Americas,Av Rojas,Calle80,1,0,10,1,44.1,1,Media
+81,Santa Isabel,Caracas,Marsella,Americas,1,0,19,1,55.7,2,Larga
+82,Pepe Sierra,Suba,Patio Bonito,Americas,3,1,8,1,23.6,0,Rápida
+83,Quirigua,Calle80,Calle 72,Caracas,2,0,15,1,40.8,1,Media
+84,Portal 80,Calle80,Pepe Sierra,Suba,1,2,9,1,27.1,1,Media
+86,Escuela Militar,Calle80,Pepe Sierra,Suba,4,0,10,1,35.7,1,Media
+87,Patio Bonito,Americas,Escuela Militar,Calle80,1,0,14,1,43.1,1,Media
+88,Niza Calle 127,Suba,Marly,Caracas,4,0,14,1,50.0,2,Larga
+89,Av Rojas,Calle80,Minuto de Dios,Calle80,3,0,2,0,3.4,0,Rápida
+90,Americas Carrera 30,Americas,Suba Calle 100,Suba,3,0,11,1,28.9,1,Media
+91,Toberin,Caracas,Granja Carrera 77,Calle80,2,0,13,1,44.9,1,Media
+92,Escuela Militar,Calle80,El Tiempo,Calle80,5,0,2,0,3.0,0,Rápida
+93,Niza Calle 127,Suba,Minuto de Dios,Calle80,1,1,8,1,29.2,1,Media
+94,Banderas,Americas,Ricaurte,Americas,1,0,4,0,19.0,0,Rápida
+95,Quirigua,Calle80,Marsella,Americas,1,0,11,1,39.1,1,Media
+96,Marsella,Americas,Portal Norte,Caracas,3,0,15,1,43.6,1,Media
+97,Portal Suba,Suba,Av Jimenez,Caracas,1,0,18,1,49.2,1,Media
+98,Calle 100,Caracas,Portal Suba,Suba,4,0,13,1,48.8,1,Media
+99,Cardio Infantil,Caracas,Marsella,Americas,1,0,13,1,58.0,2,Larga
+100,Suba Calle 100,Suba,Pepe Sierra,Suba,4,0,2,0,11.8,0,Rápida
+101,Niza Calle 127,Suba,Av Jimenez,Caracas,5,0,16,1,36.4,1,Media
+102,Marsella,Americas,Cardio Infantil,Caracas,1,0,13,1,54.3,2,Larga
+103,Pepe Sierra,Suba,Niza Calle 127,Suba,0,0,2,0,3.5,0,Rápida
+104,Portal Suba,Suba,Marsella,Americas,4,0,10,1,38.2,1,Media
+105,Americas Carrera 30,Americas,Calle 26,Caracas,1,0,13,1,55.3,2,Larga
+106,Patio Bonito,Americas,Cardio Infantil,Caracas,4,0,12,1,62.8,2,Larga
+107,Escuela Militar,Calle80,Marly,Caracas,3,0,11,1,49.2,1,Media
+108,Pepe Sierra,Suba,Av Jimenez,Caracas,0,0,15,1,32.0,1,Media
+109,Portal 80,Calle80,Mazuren,Caracas,5,1,14,1,33.9,1,Media
+110,Santa Isabel,Caracas,Portal 80,Calle80,4,0,23,1,59.3,2,Larga
+111,Niza Calle 127,Suba,Americas Carrera 30,Americas,3,0,10,1,27.1,1,Media
+112,El Tiempo,Calle80,Av Rojas,Calle80,3,1,2,0,3.0,0,Rápida
+113,Niza Calle 127,Suba,Portal Suba,Suba,2,0,2,0,8.4,0,Rápida
+114,Portal Suba,Suba,Pepe Sierra,Suba,1,0,3,0,17.1,0,Rápida
+115,Pepe Sierra,Suba,Mazuren,Caracas,1,0,9,1,48.7,1,Media
+116,Portal Suba,Suba,Las Aguas,Caracas,3,0,19,1,38.5,1,Media
+117,Calle 26,Caracas,Portal Suba,Suba,1,1,17,1,40.2,1,Media
+118,Las Aguas,Caracas,Ricaurte,Americas,5,0,14,1,41.1,1,Media
+119,Pepe Sierra,Suba,Suba Calle 100,Suba,2,0,2,0,8.2,0,Rápida
+120,Patio Bonito,Americas,El Tiempo,Calle80,1,1,13,1,34.7,1,Media
+121,Calle 100,Caracas,Escuela Militar,Calle80,4,0,14,1,59.0,2,Larga
+122,El Tiempo,Calle80,Niza Calle 127,Suba,4,2,10,1,26.4,1,Media
+123,Suba Calle 100,Suba,Portal Suba,Suba,1,0,2,0,6.0,0,Rápida
+124,Pepe Sierra,Suba,Ricaurte,Americas,5,0,10,1,26.7,1,Media
+125,Quirigua,Calle80,Portal Suba,Suba,2,0,7,1,28.2,1,Media
+126,Suba Calle 100,Suba,Marly,Caracas,4,0,15,1,53.4,2,Larga
+127,Portal Suba,Suba,El Tiempo,Calle80,5,0,12,1,26.0,1,Media
+128,Portal Suba,Suba,Mazuren,Caracas,3,2,12,1,33.0,1,Media
+129,Calle 45,Caracas,Santa Isabel,Caracas,3,2,6,0,16.9,0,Rápida
+130,Portal 80,Calle80,Calle 72,Caracas,4,0,16,1,57.9,2,Larga
+131,Banderas,Americas,Suba Calle 100,Suba,1,0,8,1,38.0,1,Media
+132,Ricaurte,Americas,Banderas,Americas,2,0,4,0,13.5,0,Rápida
+133,Portal Sur,Caracas,Niza Calle 127,Suba,3,0,21,1,40.4,1,Media
+134,Minuto de Dios,Calle80,Niza Calle 127,Suba,2,0,8,1,29.4,1,Media
+135,Portal Suba,Suba,Americas Carrera 30,Americas,3,0,12,1,31.3,1,Media
+136,Portal 80,Calle80,Niza Calle 127,Suba,0,1,8,1,20.5,0,Rápida
+137,Portal Sur,Caracas,Niza Calle 127,Suba,4,0,21,1,54.9,2,Larga
+138,Banderas,Americas,Bolivia,Calle80,3,2,9,1,26.3,1,Media
+139,Escuela Militar,Calle80,Av Jimenez,Caracas,2,0,13,1,46.7,1,Media
+140,El Tiempo,Calle80,Banderas,Americas,1,0,11,1,45.6,1,Media
+141,Bolivia,Calle80,Escuela Militar,Calle80,5,0,5,0,16.2,0,Rápida
+142,Marly,Caracas,Cardio Infantil,Caracas,4,0,5,0,25.0,1,Media
+143,Niza Calle 127,Suba,Santa Isabel,Caracas,2,0,19,1,36.5,1,Media
+144,Minuto de Dios,Calle80,Niza Calle 127,Suba,1,0,8,1,32.7,1,Media
+145,Granja Carrera 77,Calle80,Las Aguas,Caracas,4,2,18,1,42.9,1,Media
+146,Portal Suba,Suba,Portal Americas,Americas,5,0,6,1,24.8,0,Rápida
+147,Mazuren,Caracas,Americas Carrera 30,Americas,2,0,14,1,45.9,1,Media
+148,Suba Calle 100,Suba,Portal Suba,Suba,4,0,2,0,6.2,0,Rápida
+149,Portal 80,Calle80,Granja Carrera 77,Calle80,2,2,3,0,8.1,0,Rápida
+150,Las Aguas,Caracas,Av Rojas,Calle80,1,0,16,1,61.2,2,Larga
+151,Portal Suba,Suba,Portal Americas,Americas,1,0,6,1,38.7,1,Media
+152,Patio Bonito,Americas,Banderas,Americas,4,0,2,0,9.9,0,Rápida
+153,Calle 100,Caracas,Tintal,Americas,2,1,13,1,35.2,1,Media
+154,Cardio Infantil,Caracas,Calle 72,Caracas,4,0,3,0,14.2,0,Rápida
+155,Marsella,Americas,Cardio Infantil,Caracas,3,0,13,1,48.2,1,Media
+156,Pepe Sierra,Suba,Quirigua,Calle80,2,0,8,1,27.7,1,Media
+157,Escuela Militar,Calle80,Portal Norte,Caracas,5,1,18,1,33.1,1,Media
+158,Marly,Caracas,Portal Suba,Suba,4,0,16,1,49.4,1,Media
+159,Marsella,Americas,El Tiempo,Calle80,5,0,10,1,29.1,1,Media
+160,Portal Suba,Suba,NQS Sur,Caracas,3,2,22,1,30.8,1,Media
+161,Americas Carrera 30,Americas,Suba Calle 100,Suba,2,1,11,1,23.1,0,Rápida
+162,Calle 72,Caracas,Niza Calle 127,Suba,3,0,12,1,38.5,1,Media
+163,Portal Suba,Suba,NQS Sur,Caracas,1,0,22,1,52.4,2,Larga
+164,Bolivia,Calle80,Av Jimenez,Caracas,5,0,18,1,40.5,1,Media
+165,Niza Calle 127,Suba,Portal Suba,Suba,5,0,2,0,7.6,0,Rápida
+166,Tintal,Americas,Suba Calle 100,Suba,4,0,7,1,37.6,1,Media
+167,Santa Isabel,Caracas,Granja Carrera 77,Calle80,4,1,20,1,54.1,2,Larga
+168,Av Jimenez,Caracas,Portal 80,Calle80,1,1,20,1,46.9,1,Media
+169,Av Rojas,Calle80,Cardio Infantil,Caracas,4,0,14,1,58.2,2,Larga
+170,Portal Americas,Americas,Bicentenario,Caracas,2,0,22,1,43.9,1,Media
+171,General Santander,Americas,Av Rojas,Calle80,4,0,8,1,41.1,1,Media
+172,Cardio Infantil,Caracas,Portal Americas,Americas,3,0,13,1,47.6,1,Media
+173,Pepe Sierra,Suba,Niza Calle 127,Suba,1,0,2,0,5.5,0,Rápida
+174,Calle 100,Caracas,Niza Calle 127,Suba,0,0,11,1,33.5,1,Media
+175,Mazuren,Caracas,Granja Carrera 77,Calle80,4,1,11,1,48.6,1,Media
+176,Portal Norte,Caracas,Pepe Sierra,Suba,1,0,12,1,52.1,2,Larga
+177,Quirigua,Calle80,Portal Suba,Suba,2,0,7,1,25.4,1,Media
+178,El Tiempo,Calle80,Pepe Sierra,Suba,1,0,9,1,38.0,1,Media
+179,Ricaurte,Americas,Quirigua,Calle80,2,0,14,1,32.3,1,Media
+180,Portal Suba,Suba,Niza Calle 127,Suba,3,0,2,0,9.4,0,Rápida
+182,General Santander,Americas,Bolivia,Calle80,1,0,11,1,40.3,1,Media
+183,Patio Bonito,Americas,Ricaurte,Americas,2,0,6,0,21.3,0,Rápida
+184,Av Rojas,Calle80,Ricaurte,Americas,1,0,10,1,41.0,1,Media
+185,Portal 80,Calle80,Quirigua,Calle80,1,0,2,0,4.1,0,Rápida
+186,Quirigua,Calle80,Av Jimenez,Caracas,3,0,19,1,46.6,1,Media
+187,Marly,Caracas,General Santander,Americas,3,0,13,1,49.8,1,Media
+188,Portal Suba,Suba,Quirigua,Calle80,2,0,7,1,26.1,1,Media
+189,Pepe Sierra,Suba,General Santander,Americas,2,0,8,1,27.2,1,Media
+190,Portal 80,Calle80,Quirigua,Calle80,1,0,2,0,4.3,0,Rápida
+191,Bolivia,Calle80,Quirigua,Calle80,3,0,2,0,3.5,0,Rápida
+192,Suba Calle 100,Suba,Calle 100,Caracas,3,0,12,1,39.6,1,Media
+193,Patio Bonito,Americas,Niza Calle 127,Suba,0,0,7,1,25.2,1,Media
+194,Escuela Militar,Calle80,Banderas,Americas,5,0,12,1,28.4,1,Media
+195,Calle 26,Caracas,Las Aguas,Caracas,1,1,2,0,7.5,0,Rápida
+196,Suba Calle 100,Suba,Tintal,Americas,4,1,7,1,33.2,1,Media
+197,Ricaurte,Americas,Calle 45,Caracas,2,1,12,1,40.4,1,Media
+198,Escuela Militar,Calle80,Banderas,Americas,1,1,12,1,35.8,1,Media
+199,General Santander,Americas,Pepe Sierra,Suba,4,1,8,1,31.7,1,Media
+200,Suba Calle 100,Suba,Tintal,Americas,4,0,7,1,37.1,1,Media
+201,Quirigua,Calle80,Calle 100,Caracas,1,0,14,1,56.5,2,Larga
+202,Americas Carrera 30,Americas,Portal Sur,Caracas,1,0,19,1,56.1,2,Larga
+204,Granja Carrera 77,Calle80,Portal Suba,Suba,2,0,9,1,29.1,1,Media
+205,Bolivia,Calle80,Portal Americas,Americas,1,1,10,1,37.2,1,Media
+206,Ricaurte,Americas,Portal Suba,Suba,4,0,13,1,35.6,1,Media
+207,Americas Carrera 30,Americas,Santa Isabel,Caracas,1,0,17,1,53.3,2,Larga
+208,Pepe Sierra,Suba,Toberin,Caracas,4,0,11,1,52.7,2,Larga
+209,Tintal,Americas,El Tiempo,Calle80,0,0,12,1,28.0,1,Media
+210,Patio Bonito,Americas,Quirigua,Calle80,5,0,8,1,30.7,1,Media
+211,Calle 45,Caracas,Portal Suba,Suba,3,2,15,1,29.4,1,Media
+213,Patio Bonito,Americas,Bolivia,Calle80,0,0,9,1,29.1,1,Media
+214,Ricaurte,Americas,Suba Calle 100,Suba,4,0,12,1,38.9,1,Media
+215,Portal Suba,Suba,Granja Carrera 77,Calle80,0,0,9,1,21.4,0,Rápida
+216,El Tiempo,Calle80,Niza Calle 127,Suba,0,0,10,1,22.3,0,Rápida
+217,NQS Sur,Caracas,Minuto de Dios,Calle80,1,0,20,1,60.5,2,Larga
+218,Pepe Sierra,Suba,Bolivia,Calle80,2,0,7,1,29.0,1,Media
+219,Quirigua,Calle80,Portal Suba,Suba,2,2,7,1,19.4,0,Rápida
+220,Av Rojas,Calle80,Toberin,Caracas,1,0,15,1,56.4,2,Larga
+221,Suba Calle 100,Suba,Niza Calle 127,Suba,2,1,2,0,3.9,0,Rápida
+222,Niza Calle 127,Suba,Toberin,Caracas,3,0,10,1,40.8,1,Media
+223,Portal Americas,Americas,Ricaurte,Americas,0,0,7,0,21.8,0,Rápida
+224,Av Rojas,Calle80,Portal Suba,Suba,3,0,11,1,30.6,1,Media
+225,Escuela Militar,Calle80,Av Jimenez,Caracas,1,0,13,1,55.2,2,Larga
+226,Granja Carrera 77,Calle80,Portal Norte,Caracas,3,0,14,1,45.2,1,Media
+227,Calle 100,Caracas,Escuela Militar,Calle80,1,0,14,1,58.7,2,Larga
+228,Suba Calle 100,Suba,Cardio Infantil,Caracas,4,0,10,1,55.7,2,Larga
+229,Portal Suba,Suba,Av Rojas,Calle80,3,0,11,1,27.6,1,Media
+230,Bolivia,Calle80,General Santander,Americas,2,0,11,1,31.0,1,Media
+231,Banderas,Americas,Portal Suba,Suba,2,0,9,1,27.5,1,Media
+232,Patio Bonito,Americas,Calle 100,Caracas,2,1,14,1,37.4,1,Media
+233,Pepe Sierra,Suba,Cardio Infantil,Caracas,5,0,10,1,34.6,1,Media
+234,Bolivia,Calle80,Tintal,Americas,2,2,8,1,22.7,0,Rápida
+235,Calle 26,Caracas,Marsella,Americas,1,0,15,1,59.4,2,Larga
+236,Minuto de Dios,Calle80,Calle 100,Caracas,1,2,11,1,41.2,1,Media
+237,Quirigua,Calle80,Tintal,Americas,1,0,9,1,45.1,1,Media
+238,Portal 80,Calle80,Toberin,Caracas,0,0,12,1,37.7,1,Media
+239,Americas Carrera 30,Americas,Marly,Caracas,4,0,12,1,61.0,2,Larga
+240,Escuela Militar,Calle80,Americas Carrera 30,Americas,1,0,9,1,39.4,1,Media
+243,Av Rojas,Calle80,Suba Calle 100,Suba,4,0,10,1,34.4,1,Media
+244,Ricaurte,Americas,Calle 100,Caracas,2,0,14,1,41.0,1,Media
+245,Pepe Sierra,Suba,Tintal,Americas,4,2,7,1,28.9,1,Media
+246,Tintal,Americas,Pepe Sierra,Suba,2,0,7,1,25.5,1,Media
+247,Pepe Sierra,Suba,Banderas,Americas,3,0,6,1,28.0,1,Media
+248,Niza Calle 127,Suba,NQS Sur,Caracas,1,0,20,1,48.5,1,Media
+249,El Tiempo,Calle80,Portal 80,Calle80,2,0,6,0,19.4,0,Rápida
+250,Quirigua,Calle80,Pepe Sierra,Suba,4,0,8,1,39.6,1,Media
+251,Cardio Infantil,Caracas,Calle 45,Caracas,2,2,4,0,10.9,0,Rápida
+252,Bolivia,Calle80,Americas Carrera 30,Americas,2,0,12,1,30.7,1,Media
+253,Escuela Militar,Calle80,Suba Calle 100,Suba,3,0,12,1,27.8,1,Media
+254,Bolivia,Calle80,Niza Calle 127,Suba,3,0,6,1,28.6,1,Media
+255,Niza Calle 127,Suba,Portal Suba,Suba,2,0,2,0,9.3,0,Rápida
+256,Portal 80,Calle80,Niza Calle 127,Suba,5,1,8,1,21.7,0,Rápida
+257,Portal Americas,Americas,Suba Calle 100,Suba,2,1,7,1,24.5,0,Rápida
+258,Suba Calle 100,Suba,Portal Americas,Americas,3,1,7,1,23.4,0,Rápida
+259,Niza Calle 127,Suba,Suba Calle 100,Suba,2,0,2,0,4.3,0,Rápida
+260,Portal Suba,Suba,Banderas,Americas,3,2,9,1,21.7,0,Rápida
+261,Niza Calle 127,Suba,Ricaurte,Americas,4,0,11,1,36.4,1,Media
+262,Escuela Militar,Calle80,Banderas,Americas,1,0,12,1,45.4,1,Media
+263,Minuto de Dios,Calle80,Ricaurte,Americas,1,0,11,1,45.3,1,Media
+264,Minuto de Dios,Calle80,Av Jimenez,Caracas,3,0,16,1,49.5,1,Media
+265,Bolivia,Calle80,Portal 80,Calle80,1,1,2,0,7.3,0,Rápida
+266,Niza Calle 127,Suba,Suba Calle 100,Suba,1,0,2,0,6.0,0,Rápida
+267,Bolivia,Calle80,Av Jimenez,Caracas,3,0,18,1,42.7,1,Media
+268,Banderas,Americas,Toberin,Caracas,2,1,13,1,35.2,1,Media
+269,Portal Americas,Americas,Americas Carrera 30,Americas,3,2,6,0,16.5,0,Rápida
+270,Marsella,Americas,Minuto de Dios,Calle80,3,2,8,1,24.0,0,Rápida
+271,Portal Americas,Americas,Americas Carrera 30,Americas,4,0,6,0,30.3,1,Media
+272,Pepe Sierra,Suba,Marsella,Americas,4,0,7,1,37.7,1,Media
+273,Portal Sur,Caracas,Minuto de Dios,Calle80,2,0,21,1,44.0,1,Media
+274,Ricaurte,Americas,Granja Carrera 77,Calle80,4,0,12,1,45.6,1,Media
+275,Bolivia,Calle80,Bicentenario,Caracas,1,0,20,1,58.5,2,Larga
+276,Tintal,Americas,Pepe Sierra,Suba,2,0,7,1,28.3,1,Media
+277,Tintal,Americas,Niza Calle 127,Suba,5,0,6,1,24.4,0,Rápida
+278,Niza Calle 127,Suba,Minuto de Dios,Calle80,3,0,8,1,27.5,1,Media
+279,Granja Carrera 77,Calle80,Las Aguas,Caracas,1,0,18,1,56.1,2,Larga
+280,Quirigua,Calle80,Av Rojas,Calle80,3,0,4,0,13.4,0,Rápida
+281,Ricaurte,Americas,El Tiempo,Calle80,3,2,9,1,26.7,1,Media
+282,Banderas,Americas,Calle 26,Caracas,2,1,16,1,35.0,1,Media
+283,Portal Norte,Caracas,Tintal,Americas,1,1,13,1,48.4,1,Media
+284,Ricaurte,Americas,Portal Sur,Caracas,2,1,18,1,37.3,1,Media
+285,Pepe Sierra,Suba,Calle 26,Caracas,2,1,14,1,34.2,1,Media
+286,Niza Calle 127,Suba,Bicentenario,Caracas,1,0,18,1,49.8,1,Media
+287,Calle 26,Caracas,Portal Sur,Caracas,4,2,6,0,21.8,0,Rápida
+288,El Tiempo,Calle80,Tintal,Americas,4,2,12,1,33.8,1,Media
+289,Niza Calle 127,Suba,Pepe Sierra,Suba,4,2,2,0,4.3,0,Rápida
+290,General Santander,Americas,Cardio Infantil,Caracas,5,0,14,1,37.4,1,Media
+291,Portal Americas,Americas,Calle 100,Caracas,2,1,15,1,37.1,1,Media
+292,Suba Calle 100,Suba,Ricaurte,Americas,1,0,12,1,38.4,1,Media
+293,Portal Norte,Caracas,Portal Suba,Suba,1,0,9,1,51.2,2,Larga
+294,Portal Suba,Suba,Portal Americas,Americas,2,0,6,1,26.4,1,Media
+295,Cardio Infantil,Caracas,Granja Carrera 77,Calle80,4,1,12,1,48.8,1,Media
+296,Granja Carrera 77,Calle80,Bolivia,Calle80,5,0,2,0,3.0,0,Rápida
+297,Portal 80,Calle80,Americas Carrera 30,Americas,3,0,14,1,33.4,1,Media
+298,Niza Calle 127,Suba,Pepe Sierra,Suba,1,0,2,0,5.8,0,Rápida
+299,Suba Calle 100,Suba,Marsella,Americas,4,0,9,1,37.0,1,Media
+300,Calle 26,Caracas,Pepe Sierra,Suba,3,0,14,1,39.1,1,Media
+301,General Santander,Americas,Portal Sur,Caracas,2,0,20,1,44.5,1,Media
+302,Portal Americas,Americas,El Tiempo,Calle80,3,0,14,1,36.3,1,Media
+303,Banderas,Americas,Suba Calle 100,Suba,4,0,8,1,40.0,1,Media
+304,Mazuren,Caracas,Patio Bonito,Americas,3,1,13,1,42.1,1,Media
+305,Americas Carrera 30,Americas,General Santander,Americas,4,0,2,0,4.8,0,Rápida
+306,Minuto de Dios,Calle80,Av Rojas,Calle80,2,0,2,0,3.2,0,Rápida
+307,Niza Calle 127,Suba,General Santander,Americas,1,0,9,1,38.0,1,Media
+308,Portal Americas,Americas,El Tiempo,Calle80,1,0,14,1,40.5,1,Media
+309,Ricaurte,Americas,Minuto de Dios,Calle80,4,0,11,1,45.6,1,Media
+310,Pepe Sierra,Suba,General Santander,Americas,1,1,8,1,30.4,1,Media
+311,Calle 26,Caracas,NQS Sur,Caracas,4,2,5,0,18.7,0,Rápida
+312,Calle 45,Caracas,Banderas,Americas,1,0,14,1,54.9,2,Larga
+313,Niza Calle 127,Suba,Av Jimenez,Caracas,3,2,16,1,32.6,1,Media
+314,Portal Suba,Suba,Calle 26,Caracas,3,0,17,1,40.9,1,Media
+315,Minuto de Dios,Calle80,Calle 26,Caracas,4,0,15,1,62.0,2,Larga
+316,Patio Bonito,Americas,Calle 26,Caracas,1,0,18,1,57.7,2,Larga
+317,Minuto de Dios,Calle80,Portal Suba,Suba,2,0,10,1,27.5,1,Media
+318,Marsella,Americas,Las Aguas,Caracas,5,0,17,1,36.8,1,Media
+320,Las Aguas,Caracas,Bicentenario,Caracas,1,0,2,0,4.6,0,Rápida
+321,Quirigua,Calle80,Mazuren,Caracas,1,1,13,1,51.4,2,Larga
+322,Niza Calle 127,Suba,Portal Sur,Caracas,1,2,21,1,40.2,1,Media
+323,Cardio Infantil,Caracas,Portal 80,Calle80,5,0,13,1,41.0,1,Media
+324,Portal Suba,Suba,Bolivia,Calle80,3,0,8,1,30.2,1,Media
+325,El Tiempo,Calle80,Patio Bonito,Americas,2,2,13,1,22.7,0,Rápida
+326,Suba Calle 100,Suba,Calle 72,Caracas,3,0,13,1,41.4,1,Media
+327,Portal 80,Calle80,Escuela Militar,Calle80,2,0,7,0,25.5,1,Media
+328,Suba Calle 100,Suba,Portal Suba,Suba,4,0,2,0,5.6,0,Rápida
+329,Toberin,Caracas,Bolivia,Calle80,2,1,12,1,35.2,1,Media
+330,Niza Calle 127,Suba,Quirigua,Calle80,1,2,7,1,26.3,1,Media
+331,Quirigua,Calle80,Patio Bonito,Americas,1,0,8,1,42.8,1,Media
+332,Portal Suba,Suba,Toberin,Caracas,2,0,10,1,39.4,1,Media
+333,El Tiempo,Calle80,Calle 100,Caracas,2,1,13,1,38.6,1,Media
+334,Tintal,Americas,Suba Calle 100,Suba,1,0,7,1,35.8,1,Media
+335,Cardio Infantil,Caracas,Niza Calle 127,Suba,2,0,9,1,36.2,1,Media
+336,Granja Carrera 77,Calle80,Suba Calle 100,Suba,2,0,8,1,25.1,1,Media
+338,Niza Calle 127,Suba,Suba Calle 100,Suba,1,0,2,0,5.8,0,Rápida
+339,Niza Calle 127,Suba,Americas Carrera 30,Americas,5,0,10,1,25.6,1,Media
+340,Suba Calle 100,Suba,El Tiempo,Calle80,1,1,11,1,29.4,1,Media
+341,Tintal,Americas,Bicentenario,Caracas,2,1,20,1,37.2,1,Media
+342,Quirigua,Calle80,Pepe Sierra,Suba,1,0,8,1,34.0,1,Media
+343,Americas Carrera 30,Americas,Portal Suba,Suba,2,0,12,1,28.0,1,Media
+344,Portal Suba,Suba,Quirigua,Calle80,1,0,7,1,36.3,1,Media
+345,Portal Americas,Americas,Niza Calle 127,Suba,5,0,8,1,22.9,0,Rápida
+346,Granja Carrera 77,Calle80,Ricaurte,Americas,2,0,12,1,33.5,1,Media
+347,General Santander,Americas,Marly,Caracas,1,0,13,1,61.7,2,Larga
+348,NQS Sur,Caracas,General Santander,Americas,1,0,19,1,54.8,2,Larga
+349,Niza Calle 127,Suba,Portal Suba,Suba,2,0,2,0,8.4,0,Rápida
+350,Portal 80,Calle80,Portal Norte,Caracas,4,0,11,1,60.8,2,Larga
+351,Banderas,Americas,Tintal,Americas,1,0,2,0,4.5,0,Rápida
+352,Suba Calle 100,Suba,Americas Carrera 30,Americas,2,1,11,1,24.9,0,Rápida
+353,Pepe Sierra,Suba,Portal Suba,Suba,3,0,3,0,14.1,0,Rápida
+354,Av Jimenez,Caracas,Santa Isabel,Caracas,4,0,3,0,14.2,0,Rápida
+355,Portal Suba,Suba,Escuela Militar,Calle80,2,0,13,1,27.6,1,Media
+356,Portal Suba,Suba,Av Rojas,Calle80,4,0,11,1,38.6,1,Media
+357,Quirigua,Calle80,General Santander,Americas,1,0,12,1,40.2,1,Media
+358,Americas Carrera 30,Americas,Suba Calle 100,Suba,3,0,11,1,28.9,1,Media
+359,Tintal,Americas,Niza Calle 127,Suba,1,0,6,1,35.6,1,Media
+360,NQS Sur,Caracas,Portal 80,Calle80,2,0,24,1,43.0,1,Media
+362,Pepe Sierra,Suba,Patio Bonito,Americas,3,1,8,1,23.5,0,Rápida
+363,Calle 100,Caracas,Marsella,Americas,1,0,11,1,59.7,2,Larga
+364,Portal Suba,Suba,Calle 100,Caracas,4,1,13,1,43.6,1,Media
+365,Santa Isabel,Caracas,Suba Calle 100,Suba,5,0,20,1,36.8,1,Media
+366,Marsella,Americas,Marly,Caracas,1,1,14,1,45.6,1,Media
+367,Santa Isabel,Caracas,Banderas,Americas,4,0,20,1,58.2,2,Larga
+368,Suba Calle 100,Suba,Banderas,Americas,4,1,8,1,32.0,1,Media
+369,Bolivia,Calle80,Minuto de Dios,Calle80,1,0,2,0,9.3,0,Rápida
+370,Cardio Infantil,Caracas,Portal Suba,Suba,5,1,11,1,27.9,1,Media
+371,Banderas,Americas,General Santander,Americas,4,1,2,0,8.3,0,Rápida
+372,Suba Calle 100,Suba,El Tiempo,Calle80,2,0,11,1,28.5,1,Media
+373,Calle 45,Caracas,Av Rojas,Calle80,2,0,12,1,44.4,1,Media
+374,Bicentenario,Caracas,Niza Calle 127,Suba,4,1,18,1,43.8,1,Media
+375,Suba Calle 100,Suba,Niza Calle 127,Suba,1,0,2,0,5.6,0,Rápida
+376,Ricaurte,Americas,Portal 80,Calle80,0,0,15,1,29.2,1,Media
+377,Toberin,Caracas,Ricaurte,Americas,2,2,17,1,32.8,1,Media
+379,Las Aguas,Caracas,Minuto de Dios,Calle80,1,0,17,1,58.3,2,Larga
+380,Calle 45,Caracas,Granja Carrera 77,Calle80,2,0,14,1,41.0,1,Media
+381,Ricaurte,Americas,Cardio Infantil,Caracas,3,0,16,1,46.0,1,Media
+382,Bicentenario,Caracas,Quirigua,Calle80,5,0,21,1,37.1,1,Media
+383,Mazuren,Caracas,Portal Suba,Suba,3,0,12,1,39.5,1,Media
+384,Bolivia,Calle80,Suba Calle 100,Suba,3,0,7,1,26.6,1,Media
+385,Av Jimenez,Caracas,Ricaurte,Americas,2,0,13,1,46.0,1,Media
+386,Pepe Sierra,Suba,Patio Bonito,Americas,4,0,8,1,35.0,1,Media
+388,Banderas,Americas,Quirigua,Calle80,1,0,10,1,43.9,1,Media
+389,Portal 80,Calle80,Granja Carrera 77,Calle80,2,0,3,0,10.6,0,Rápida
+390,Portal 80,Calle80,Ricaurte,Americas,2,0,15,1,33.3,1,Media
+391,Calle 26,Caracas,Calle 72,Caracas,5,0,3,0,10.3,0,Rápida
+392,Niza Calle 127,Suba,Ricaurte,Americas,5,1,11,1,19.5,0,Rápida
+393,Portal Norte,Caracas,Granja Carrera 77,Calle80,0,0,14,1,39.0,1,Media
+394,El Tiempo,Calle80,Pepe Sierra,Suba,1,0,9,1,36.0,1,Media
+396,Tintal,Americas,El Tiempo,Calle80,3,1,12,1,29.8,1,Media
+397,Calle 100,Caracas,Suba Calle 100,Suba,1,0,12,1,49.9,1,Media
+398,Portal Suba,Suba,Bolivia,Calle80,1,1,8,1,31.0,1,Media
+399,Ricaurte,Americas,Minuto de Dios,Calle80,1,0,11,1,44.3,1,Media
+400,Quirigua,Calle80,Calle 72,Caracas,4,0,15,1,55.0,2,Larga
+401,Marly,Caracas,Niza Calle 127,Suba,1,1,14,1,40.6,1,Media
+402,Marsella,Americas,Portal Sur,Caracas,3,1,21,1,37.7,1,Media
+403,Portal Norte,Caracas,Mazuren,Caracas,0,0,3,0,9.8,0,Rápida
+404,Portal Americas,Americas,Suba Calle 100,Suba,1,0,7,1,37.1,1,Media
+406,Cardio Infantil,Caracas,Portal Americas,Americas,5,0,13,1,39.6,1,Media
+407,Minuto de Dios,Calle80,Quirigua,Calle80,3,0,3,0,10.2,0,Rápida
+408,Granja Carrera 77,Calle80,Niza Calle 127,Suba,3,0,7,1,29.8,1,Media
+409,Banderas,Americas,Portal Americas,Americas,5,0,3,0,9.5,0,Rápida
+410,Calle 72,Caracas,Santa Isabel,Caracas,3,1,7,0,23.3,0,Rápida
+411,Mazuren,Caracas,Americas Carrera 30,Americas,2,0,14,1,47.7,1,Media
+412,Quirigua,Calle80,Portal Sur,Caracas,1,1,24,1,47.7,1,Media
+413,Escuela Militar,Calle80,Av Jimenez,Caracas,1,0,13,1,59.9,2,Larga
+414,Av Jimenez,Caracas,Calle 45,Caracas,3,0,3,0,11.0,0,Rápida
+415,El Tiempo,Calle80,Av Rojas,Calle80,2,0,2,0,3.6,0,Rápida
+417,Ricaurte,Americas,Niza Calle 127,Suba,2,0,11,1,29.7,1,Media
+418,Ricaurte,Americas,Escuela Militar,Calle80,1,0,8,1,40.1,1,Media
+419,Portal 80,Calle80,General Santander,Americas,1,1,13,1,38.7,1,Media
